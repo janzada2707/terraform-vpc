@@ -1,4 +1,4 @@
-s3_bucket = "terraform-state-april-class-nargiza"
+s3_bucket = "terraform-state-april-test-nargiza"
 s3_folder_project = "terraform_vpc"
 s3_folder_region = "us-east-1"
 s3_folder_type = "class"
